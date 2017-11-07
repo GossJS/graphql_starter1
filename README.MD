@@ -2,7 +2,7 @@ graphql simple sample
 
 yarn run dev:start
 
-localhost:3333/graphql
+localhost:4321/graphql
 
 {
   user(username: "teacher") {
