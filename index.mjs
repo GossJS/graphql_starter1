@@ -3,7 +3,7 @@ import express from 'express';
 import expressGraphQL from 'express-graphql';
 import { schema } from './schema/schema.mjs';
 
-const PORT = 3333;
+const PORT = 4321;
 const app = express();
 app
   .use(express.static('public'))
