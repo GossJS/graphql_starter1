@@ -17,3 +17,18 @@ localhost:4321/graphql
 NodeJS: apollo-server (включая девелоперский graphiql) - в ноябре 2017 версия 2.
 
 PHP: graphql-php (описание схемы в словаре с анонимными функциями)
+
+Псевдонимы, директивы, переменные, фрагменты. 
+
+ - alias:field[(param: ..., ...)]
+ - @include(if: ..., @skip(if: ...)
+ - $var:Type[!] ! - для обязательного; можно через = значение по умолчанию
+ - fragment <name> on Type { структура }, ссылка ...fragment_name
+  
+Если нужен клиент (для рефлексии например) - то 
+
+PHP: laravel-graphql, graphql-php
+
+JavaScript: grapql-js (Facebook - поддерживает Subscriptions (realtime updates)), Apollo Client (есть связывание с React, Angular)
+
+Apollo (полезно использовать eslint-plugin-graphql для проверки запросов по схеме), intellij-graphql (запросы внутри IDE)
