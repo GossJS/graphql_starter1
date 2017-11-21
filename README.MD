@@ -32,3 +32,9 @@ PHP: laravel-graphql, graphql-php
 JavaScript: grapql-js (Facebook - поддерживает Subscriptions (realtime updates)), Apollo Client (есть связывание с React, Angular)
 
 Apollo (полезно использовать eslint-plugin-graphql для проверки запросов по схеме), intellij-graphql (запросы внутри IDE)
+
+Задание:
+
+создайте реакт-клиент
+
+![alt scheme](react.png "Примерный вид кода")
