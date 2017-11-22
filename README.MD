@@ -38,3 +38,5 @@ Apollo (полезно использовать eslint-plugin-graphql для п�
 создайте реакт-клиент
 
 ![alt scheme](react.png "Примерный вид кода")
+
+http://graphql.org/learn/queries/ 
