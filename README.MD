@@ -40,3 +40,11 @@ Apollo (полезно использовать eslint-plugin-graphql для п�
 ![alt scheme](react.png "Примерный вид кода")
 
 http://graphql.org/learn/queries/ 
+
+
+Выступление Павла Черторогова (https://twitter.com/nodkz https://github.com/nodkz) на HolyJS-2017 Moscow
+
+https://holyjs-moscow.ru/talks/491dtd5v6mcsikkukeyk62/
+
+https://www.slideshare.net/nod/graphql-the-holy-contract-between-client-and-server
+
